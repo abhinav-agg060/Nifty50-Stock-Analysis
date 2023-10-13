@@ -1,1 +1,1 @@
-# Nifty50-Stock-Analysis
+# Sensex-30-Stock-Analysis
