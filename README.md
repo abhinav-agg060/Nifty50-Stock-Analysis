@@ -1,1 +1,1 @@
-# Sensex-30-Stock-Analysis
+# this is an c program made to analysis top 30 regisetered companies in indian stock market. it includes financial and fundamental analysis of stocks, comparison of stocks, filtering the stock on basis of its sector and also on basis on any particular fundamental.
